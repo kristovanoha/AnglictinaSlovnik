@@ -16,6 +16,8 @@ namespace AnglictinaSlovicka
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new MainForm());
+
+            //z AA
         }
     }
 }
