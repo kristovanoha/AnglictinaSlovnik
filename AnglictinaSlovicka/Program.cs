@@ -18,6 +18,7 @@ namespace AnglictinaSlovicka
             Application.Run(new MainForm());
 
             //z AA
+            //HERSOFT
         }
     }
 }
